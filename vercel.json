@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "asap-foods.vercel.app" }],
+      "destination": "https://www.asapfoodsgh.com/$1",
+      "permanent": true
+    }
+  ]
+}
